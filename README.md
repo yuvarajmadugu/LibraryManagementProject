@@ -1,5 +1,5 @@
 ### LibraryManagementProject
-# 📚 Mini Library Management System (Java)
+# 📚 Mini Library Management System
 This is a simple Java-based Library Management System project designed to demonstrate object-oriented programming concepts such as inheritance, interfaces, and class hierarchies. The system maintains a small collection of books and magazines (up to 10 items), and supports basic user roles like students and professors.
 
 # 🚀 Features
