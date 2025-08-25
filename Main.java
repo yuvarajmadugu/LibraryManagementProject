@@ -2,7 +2,9 @@ package com.LiraryManagementSystemProject;
 
 public class Main {
     public static void main(String[] args) {
-        Book b1 = new Book("Java123","Java Book","Kathy Sierra");
+        //Create LibraryItems
+        Author author = new Author("JavaCreator","JavaCreator is the author of Java",3,59);
+        Book b1 = new Book("Java123","Java Book", author);
         Magazine m1 = new Magazine("SwathiWeekly123","Swathi Magazine", 10);
 
         //Create User
